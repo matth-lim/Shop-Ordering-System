@@ -12,6 +12,6 @@ This is one of my first C project, it is a simple system which uses the command 
 </div>
 <br>
 <div align="center">
-    <img src="Demo/demo_2.png" alt="Demo 3" width="500">
+    <img src="Demo/demo_2.png" alt="Demo 3" width="300">
 </div>
 
