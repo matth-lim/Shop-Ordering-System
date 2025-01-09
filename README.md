@@ -13,14 +13,14 @@ Below shows a demo of the project.
 
 <br>
 <div align="center">
-    <img src="Demo/demo_3.png" alt="Demo 1" width="500">
+    <img src="https://github.com/matth-lim/Images/blob/main/Shop%20Ordering%20System/demo_3.png" alt="Demo 1" width="500">
 </div>
 <br>
 <div align="center">
-    <img src="Demo/demo_1.png" alt="Demo 2" width="300">
+    <img src="https://github.com/matth-lim/Images/blob/main/Shop%20Ordering%20System/demo_1.png" alt="Demo 2" width="300">
 </div>
 <br>
 <div align="center">
-    <img src="Demo/demo_2.png" alt="Demo 3" width="300">
+    <img src="https://github.com/matth-lim/Images/blob/main/Shop%20Ordering%20System/demo_2.png" alt="Demo 3" width="300">
 </div>
 
